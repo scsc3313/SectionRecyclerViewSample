@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_e384fbfdd9df6b58d9fb671bd2d3ddb6a7e822bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_4a8f9833f92e1d413976093626ecfc51e1bafa0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_2a21f7dac70c35419ebb8636c96d84f857839a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_42f607be2fe7624e7aaa466b07e285e0dabd3519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_5f6630dda9f81fd5c9de6935ea7df1d5218d9fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_86df6f818752c9d7d1198020e0695991a359a9f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_f77a221e73fe2eda4b503e8cf6d2f1eceeb005fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_25031d70c66086d510be8269a3d279f0b66117b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_d7f9780d1f3df16e00a8c683e10784f3b0ac68fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_15c2f6e3e0dd15ec12f93d69dfd99aa7fcd85072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/HSH/AndroidStudioProjects/SectionRecyclerViewSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_2e7929bc681284c0ee1eef045a4fba19c36b2616.jar" />
+    </item>
+
+</items>
