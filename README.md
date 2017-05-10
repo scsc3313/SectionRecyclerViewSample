@@ -3,6 +3,8 @@
 - Android SectionRecyclerView
 - Use [SimpleArrayMap](https://developer.android.com/reference/android/support/v4/util/SimpleArrayMap.html)
 
+<img src="sample_gif.gif" width=400/>
+
 #### Example
 
 ```java
